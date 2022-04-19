@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="creature_name">Name</string>
+    <string name="creature_level">Level</string>
+    <string name="creature_size">Size</string>
+    <string name="party_size">Party Size</string>
+    <string name="party_level">Party Level</string>
+    <string name="severity">Trivial</string>
+    <string name="xp">0</string>
+    <string name="xp_amount">Total Xp:</string>
+    <string name="severity_text">Severity:</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

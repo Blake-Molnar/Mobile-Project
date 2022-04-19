@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192767185059",
+    "project_id": "mobile-project-babcb",
+    "storage_bucket": "mobile-project-babcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192767185059:android:0e4f9c6f1590837ef2af16",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192767185059-5o7cut73djq29fr6g2d4l72friv1llpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGCn3GmcOe0xurcVCDAws4gZvY6t88_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192767185059-5o7cut73djq29fr6g2d4l72friv1llpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
